@@ -11,7 +11,8 @@ int main()
     printf("addition = %d \n", a + b);
     printf("subtraction = %d \n", a - b);
     printf("multiplication = %d \n", a * b);
-    printf("divide = %d \n", a / b);
+    printf("divide = %d \n", a / b); 
+    printf("modules = %d\n ", a % b);
 
     return 0;
 }
